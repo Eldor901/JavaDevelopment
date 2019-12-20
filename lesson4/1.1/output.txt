@@ -1,0 +1,5 @@
+164d6102/files\walk\samples\binary\binary.txt
+b207659c/files\walk\samples\samples.txt
+8a953b7a/files\walk\walk.txt
+7f6c9359/files\file.txt
+00000000/some.txt
